@@ -17,7 +17,7 @@
         <javafx.version>17</javafx.version>
         <attach.version>4.0.12</attach.version>
 
-        <!-- Plugin versions -->
+        <!-- Plugin version -->
         <javafx.plugin.version>0.0.7</javafx.plugin.version>
         <gluonfx.plugin.version>1.0.5</gluonfx.plugin.version>
 
